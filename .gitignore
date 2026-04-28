@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# Ignore uv virtual environment
+.venv/
+
+# Ignore raw and processed data
+data/raw/
+data/processed/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
